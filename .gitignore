@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+**/__pycache__/*
+*.py[cod]
+*$py.class
+
+# Database files
+*.sqlite3
+*.db
+
+# Log files
+*.log
+
+# Static files
+**/staticfiles/*
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+#migration file
+**/migrations/*
+
+#media
+**/media/*
+
+# Ignore IDE files and directories
+.idea/
+.vscode/
